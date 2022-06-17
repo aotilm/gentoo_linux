@@ -1,0 +1,1 @@
+console.log("Привіт, інсталюйте Gentoo Linux!")
